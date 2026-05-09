@@ -1,8 +1,4 @@
-# PolyCount Wizard
-
-<p align="center">
-  <img src="media/hero/herosimple.png" alt="PolyCount Wizard hero image" width="100%">
-</p>
+<h1 align="center">PolyCount Wizard</h1>
 
 <p align="center">
   <strong>Real-time Production Tool for Mesh Budget Diagnostics</strong>
@@ -10,6 +6,10 @@
 
 <p align="center">
   A production-facing Blender tool for mesh budget diagnostics, visual density review, and object-level asset validation.
+</p>
+
+<p align="center">
+  <img src="media/hero/herosimple.png" alt="PolyCount Wizard hero image" width="100%">
 </p>
 
 ---
@@ -21,6 +21,16 @@ PolyCount Wizard helps artists, technical artists, and production teams understa
 It is not just a polygon counter. The tool is designed to make scene complexity, object density, modifier impact, and budget status easier to read during production review.
 
 The goal is to give artists clearer technical feedback before mesh density becomes a late-stage production problem.
+
+## At a glance
+
+| Area | Description |
+|---|---|
+| Tool type | Independent production tool for Blender |
+| Main purpose | Mesh budget diagnostics and asset validation |
+| Primary users | Artists, technical artists, implementation teams, production reviewers |
+| Main value | Clearer visual feedback for budget risk, scene density, and object-level cost |
+| Current status | Public documentation / private source |
 
 ## Why it exists
 
@@ -54,19 +64,19 @@ PolyCount Wizard focuses on turning mesh budget information into something more 
 ### Interface overview
 
 <p align="center">
-  <img src="media/screenshots/ui.png" alt="PolyCount Wizard interface overview" width="100%">
+  <img src="media/screenshots/interface_overview.png" alt="PolyCount Wizard interface overview" width="100%">
 </p>
 
 ### Production view
 
 <p align="center">
-  <img src="media/screenshots/Screenshot 2026-05-09 000558.png" alt="PolyCount Wizard running inside Blender with viewport overlays and budget diagnostics" width="100%">
+  <img src="media/screenshots/production_view.png" alt="PolyCount Wizard running inside Blender with viewport overlays and budget diagnostics" width="100%">
 </p>
 
 ### Density alert example
 
 <p align="center">
-  <img src="media/screenshots/Screenshot 2026-05-09 000653.png" alt="PolyCount Wizard density alert selection example" width="100%">
+  <img src="media/screenshots/density_alert_example.png" alt="PolyCount Wizard density alert selection example" width="100%">
 </p>
 
 ## Production value
