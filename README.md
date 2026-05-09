@@ -1,3 +1,4 @@
+[polycount_wizard_readme.md](https://github.com/user-attachments/files/27550710/polycount_wizard_readme.md)
 # PolyCount Wizard
 
 <p align="center">
@@ -48,6 +49,26 @@ PolyCount Wizard focuses on turning mesh budget information into something more 
 - Settings import/export for repeatable configurations
 - English and Portuguese interface support
 - Production-oriented UI for artists and technical artists
+
+## Visual documentation
+
+### Interface overview
+
+<p align="center">
+  <img src="media/screenshots/ui.png" alt="PolyCount Wizard interface overview" width="100%">
+</p>
+
+### Production view
+
+<p align="center">
+  <img src="media/screenshots/Screenshot 2026-05-09 000558.png" alt="PolyCount Wizard running inside Blender with viewport overlays and budget diagnostics" width="100%">
+</p>
+
+### Density alert example
+
+<p align="center">
+  <img src="media/screenshots/Screenshot 2026-05-09 000653.png" alt="PolyCount Wizard density alert selection example" width="100%">
+</p>
 
 ## Production value
 
