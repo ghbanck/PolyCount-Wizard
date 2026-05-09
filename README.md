@@ -67,7 +67,7 @@ PolyCount Wizard focuses on turning mesh budget information into something more 
   <img src="media/screenshots/interface_overview.png" alt="PolyCount Wizard interface overview" width="100%">
 </p>
 
-### Production view
+### Top Offenders example
 
 <p align="center">
   <img src="media/screenshots/production_view.png" alt="PolyCount Wizard running inside Blender with viewport overlays and budget diagnostics" width="100%">
