@@ -1,4 +1,3 @@
-[polycount_wizard_readme.md](https://github.com/user-attachments/files/27550710/polycount_wizard_readme.md)
 # PolyCount Wizard
 
 <p align="center">
