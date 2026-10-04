@@ -12,6 +12,14 @@
   <img src="media/hero/herosimple.png" alt="PolyCount Wizard hero image" width="100%">
 </p>
 
+<p align="center">
+  <a href="NOTICE.md"><img alt="License: all rights reserved" src="https://img.shields.io/badge/license-all%20rights%20reserved-6e7681"></a>
+  <img alt="Platform: Blender" src="https://img.shields.io/badge/platform-Blender-0078d4">
+  <a href="TESTING_STATUS.md"><img alt="QA: Blender 5.1.1" src="https://img.shields.io/badge/QA-Blender%205.1.1-8250df"></a>
+  <a href="TESTING_STATUS.md"><img alt="Runtime QA: 27 pass, 0 fail" src="https://img.shields.io/badge/runtime%20QA-27%20pass%20%7C%200%20fail-3fb950"></a>
+  <img alt="Source: private" src="https://img.shields.io/badge/source-private-6e7681">
+</p>
+
 ---
 
 ## Overview
